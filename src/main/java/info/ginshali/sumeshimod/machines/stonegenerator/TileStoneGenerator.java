@@ -131,10 +131,6 @@ public class TileStoneGenerator extends TileEntity implements ISidedInventory
     {
         super.readFromNBT(comp);
 
-        NBTTagCompound lavaComp = (NBTTagCompound) comp.getTag("LavaInventory");
-        NBTTagCompound waterComp = (NBTTagCompound) comp.getTag("WaterInventory");
-        NBTTagCompound outputComp = (NBTTagCompound) comp.getTag("OutputInventory");
-
         NBTTagList tagList = comp.getTagList("Items", 10);
         this.slots = new ItemStack[SLOT_COUNT];
 
