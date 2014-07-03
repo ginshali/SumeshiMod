@@ -1,0 +1,19 @@
+[
+    {
+        "modid": "SumeshiMod",
+        "name": "SumeshiMod",
+        "description": "Sumeshi's private MOD library!",
+        "version": "${version}",
+        "credits": "",
+        "logoFile": "",
+        "mcversion": "${mcversion}",
+        "url": "http://www.ginshali.info",
+        "updateUrl": "",
+        "authors": [ "Ginshali" ],
+        "parent": "",
+        "screenshots": [],
+        "dependencies": [
+            "Forge"
+        ]
+    }
+]

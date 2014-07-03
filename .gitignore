@@ -1,0 +1,18 @@
+#eclipse
+/bin
+/.settings
+/.classpath
+
+#idea
+/.idea
+*.iml
+*.ipr
+*.iws
+/out
+
+#gradle
+/build
+/.gradle
+
+#occupational hazards
+/eclipse
