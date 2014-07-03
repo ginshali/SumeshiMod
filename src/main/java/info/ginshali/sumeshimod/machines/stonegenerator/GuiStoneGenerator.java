@@ -6,9 +6,6 @@ import net.minecraft.entity.player.InventoryPlayer;
 import net.minecraft.util.ResourceLocation;
 import org.lwjgl.opengl.GL11;
 
-/**
- * Created by ginsh_000 on 2014/07/01.
- */
 public class GuiStoneGenerator extends GuiContainer
 {
     private static final ResourceLocation GUI_TEXTURE = new ResourceLocation("sumeshimod", "textures/gui/container/stoneGenerator.png");

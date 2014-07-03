@@ -8,9 +8,6 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.tileentity.TileEntity;
 import net.minecraft.world.World;
 
-/**
- * Created by ginsh_000 on 2014/07/01.
- */
 public class GuiHandler implements IGuiHandler
 {
     public static final int BLOCK_GENERATOR_GUI_ID = 0;

@@ -11,9 +11,6 @@ import net.minecraft.inventory.Slot;
 import net.minecraft.inventory.SlotFurnace;
 import net.minecraft.item.ItemStack;
 
-/**
- * Created by ginsh_000 on 2014/07/01.
- */
 public class ContainerStoneGenerator extends Container
 {
     static final int LAVA_SLOT_ID = 0;

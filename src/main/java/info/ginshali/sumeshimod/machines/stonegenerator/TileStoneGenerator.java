@@ -12,9 +12,6 @@ import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.nbt.NBTTagList;
 import net.minecraft.tileentity.TileEntity;
 
-/**
- * Created by ginsh_000 on 2014/07/01.
- */
 public class TileStoneGenerator extends TileEntity implements ISidedInventory
 {
     private static final int LAVA_SLOT_ID = 0;

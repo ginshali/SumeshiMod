@@ -22,9 +22,6 @@ import net.minecraft.world.World;
 
 import java.util.Random;
 
-/**
- * Created by ginsh_000 on 2014/07/01.
- */
 public class BlockStoneGenerator extends BlockContainer
 {
     @SideOnly(Side.CLIENT) protected IIcon blockIconFront;
